@@ -12,7 +12,7 @@ var frutas = ['Banana', 'Maçã', 'Pera', 'Uva', 'Melância']
 frutas.forEach(function(fruta){
     console.log(fruta)
     if (fruta === 'Pera') {
-        break
+        break;
     }
 })
 

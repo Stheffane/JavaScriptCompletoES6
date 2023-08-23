@@ -31,7 +31,7 @@ function imparOuPar(n) {
     else return 'Par'
 }
 
-//Crie um função que retorna o tipo de dado do arqumento passado nela typeof
+//Crie um função que retorna o tipo de dado do argumento passado nela typeof
 console.log('Exercício 5: ' + tipoDeDado(true));
 
 function tipoDeDado (n) {
